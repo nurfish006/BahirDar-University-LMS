@@ -1,0 +1,30 @@
+.mi{
+    display: flex;
+    justify-content: center;
+    align-items: left;
+    padding-left: 0.4rem;
+    margin-left: 0pc;
+}
+.p1{
+    font-size: 20px;
+    font-weight: 200;
+   margin-top: -3pc;
+text-align: left;  
+padding-left: 4.3rem;
+   
+}
+header{
+    display: flex;
+    justify-content: space-between;
+padding-left: 20rem;
+padding-right: 2rem;
+}
+/* body{
+    color: aqua;
+} */
+ul{
+    display: flex;
+    justify-content: space-between;
+  
+   padding-left: 50rem;
+}
